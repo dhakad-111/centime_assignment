@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Wizard",
+    "subClasses": [
+      {
+        "name": "Mage"
+      },
+      {
+        "name": "Specialist wizard"
+      }
+    ]
+  },
+  {
+    "name": "Priest",
+    "subClasses": [
+      {
+        "name": "Cleric"
+      },
+      {
+        "name": "Druid"
+      },
+      {
+        "name": "Priest of specific mythos"
+      }
+    ]
+  },
+  {
+    "name": "Warrior",
+    "subClasses": [
+      {
+        "name": "Fighter"
+      },
+      {
+        "name": "Paladin"
+      },
+      {
+        "name": "Ranger"
+      }
+    ]
+  },
+  {
+    "name": "Rogue",
+    "subClasses": [
+      {
+        "name": "Thief",
+        "subClasses": [
+          {
+            "name": "Assassin"
+          }
+        ]
+      },
+      {
+        "name": "Bard"
+      }
+    ]
+  }
+]
